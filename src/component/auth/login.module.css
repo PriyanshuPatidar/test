@@ -1,0 +1,30 @@
+.loginBody {
+    background-color: #f7f7e0;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+    border-radius: 0.7rem;
+    padding: 2.1rem 2rem;
+    flex-direction: row;
+    background: #fff;
+    justify-items: center;
+    align-items: center;
+}
+
+.registerUsing {
+    width: 100%;
+    text-align: center;
+    border-bottom: 1px solid #000;
+    line-height: 0.1em;
+    margin: 10px 0 20px;
+}
+
+.registerUsing span {
+    background: #fff;
+    padding: 0 10px;
+}
+.registerButton{
+    background-color: #a691c8;
+}
+.error{
+    color:#dc3545;
+    text-align: justify;
+}
