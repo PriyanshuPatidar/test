@@ -16,7 +16,7 @@ export const PageNotFound = () => {
               <div className={styles.contant_box_404}>
                 <h3 className={styles.text_blood}>Look like you're lost</h3>
 
-                <p className={styles.text_blood+" mt-4"}>the page you are looking for not avaible!</p>
+                <p className={styles.text_blood+""}>the page you are looking for not avaible!</p>
 
                 <Link to="/login" className={styles.link_404}>
                   Go to Home
